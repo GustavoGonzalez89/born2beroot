@@ -1,0 +1,6 @@
+*.pdf
+*.vdi
+*.vmdk
+*.iso
+.vscode/
+.DS_Store
